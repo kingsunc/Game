@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="800,580" roundcorner="5,5" caption="0,0,0,50" >
+	<Font name="微软雅黑" size="12" bold="false" italic="false" />
+    <Font name="微软雅黑" size="12" bold="true" italic="false" />
+    <VerticalLayout width="800" height="580" bkimage="bkg_fiveframe.png" bordercolor="#768D9B" bordersize="1" borderround="5,5" >
+		<HorizontalLayout height="75">
+			<HorizontalLayout />
+			<Button name="btn_min"	 width="25" height="26" normalimage="btn_min_normal.png" 	hotimage="btn_min_hover.png" 	pushedimage="btn_min_down.png" 	 tooltip="最小化"	keyboard="false" />
+			<Button name="btn_close" width="25" height="26" normalimage="btn_close_normal.png" 	hotimage="btn_close_hover.png" 	pushedimage="btn_close_down.png" tooltip="关闭"		keyboard="false" />
+        </HorizontalLayout>
+		<HorizontalLayout name="lay_board">
+			<!-- 棋盘用于添加棋子 -->
+        </HorizontalLayout>
+	</VerticalLayout>
+</Window>

@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Five", "Five\Five.vcxproj", "{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E} = {E106ACD7-4E53-4AEE-942B-D0DD426DB34E}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DuiLib", "DuiLib\DuiLib.vcxproj", "{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugA|Win32 = DebugA|Win32
+		Release|Win32 = Release|Win32
+		ReleaseA|Win32 = ReleaseA|Win32
+		SDebug|Win32 = SDebug|Win32
+		SDebugA|Win32 = SDebugA|Win32
+		SRelease|Win32 = SRelease|Win32
+		SReleaseA|Win32 = SReleaseA|Win32
+		UnicodeDebug|Win32 = UnicodeDebug|Win32
+		UnicodeRelease|Win32 = UnicodeRelease|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.Debug|Win32.Build.0 = Debug|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.DebugA|Win32.ActiveCfg = Debug|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.DebugA|Win32.Build.0 = Debug|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.Release|Win32.ActiveCfg = Release|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.Release|Win32.Build.0 = Release|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.ReleaseA|Win32.ActiveCfg = Release|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.ReleaseA|Win32.Build.0 = Release|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.SDebug|Win32.ActiveCfg = Debug|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.SDebug|Win32.Build.0 = Debug|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.SDebugA|Win32.ActiveCfg = Debug|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.SDebugA|Win32.Build.0 = Debug|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.SRelease|Win32.ActiveCfg = Release|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.SRelease|Win32.Build.0 = Release|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.SReleaseA|Win32.ActiveCfg = Release|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.SReleaseA|Win32.Build.0 = Release|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.UnicodeDebug|Win32.ActiveCfg = Debug|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.UnicodeDebug|Win32.Build.0 = Debug|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.UnicodeRelease|Win32.ActiveCfg = Release|Win32
+		{50514BB9-879D-4DF2-8DBC-0DFC1D81AE58}.UnicodeRelease|Win32.Build.0 = Release|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.Debug|Win32.Build.0 = Debug|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.DebugA|Win32.ActiveCfg = Debug|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.DebugA|Win32.Build.0 = Debug|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.Release|Win32.ActiveCfg = Release|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.Release|Win32.Build.0 = Release|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.ReleaseA|Win32.ActiveCfg = Release|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.ReleaseA|Win32.Build.0 = Release|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.SDebug|Win32.ActiveCfg = Debug|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.SDebug|Win32.Build.0 = Debug|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.SDebugA|Win32.ActiveCfg = Debug|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.SDebugA|Win32.Build.0 = Debug|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.SRelease|Win32.ActiveCfg = Release|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.SRelease|Win32.Build.0 = Release|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.SReleaseA|Win32.ActiveCfg = Release|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.SReleaseA|Win32.Build.0 = Release|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.UnicodeDebug|Win32.ActiveCfg = UnicodeDebug|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.UnicodeDebug|Win32.Build.0 = UnicodeDebug|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.UnicodeRelease|Win32.ActiveCfg = UnicodeRelease|Win32
+		{E106ACD7-4E53-4AEE-942B-D0DD426DB34E}.UnicodeRelease|Win32.Build.0 = UnicodeRelease|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
